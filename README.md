@@ -1,4 +1,4 @@
-Overview
+
 This project aims to simulate a European Super League using historical data from the UEFA Champions League matches spanning the last 30 years.
 By calculating the ELO score for each participating team, we aim to create a realistic simulation of a highly competitive league system.
 
