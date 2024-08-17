@@ -19,12 +19,12 @@ Conducts an in-depth analysis of each team in the simulated league using data so
 
 ## Project Structure
 1. Simulation
-Data Collection: Web scraping scripts gather necessary data from FBref.
-ELO Calculation: ELO ratings are calculated based on historical performance.
-League Simulation: The Super League is simulated using the ELO scores, generating match results and standings.
+- Data Collection: Web scraping scripts gather necessary data from FBref.
+- ELO Calculation: ELO ratings are calculated based on historical performance.
+- League Simulation: The Super League is simulated using the ELO scores, generating match results and standings.
 2. Team Analysis
-Data Collection: Additional team data is gathered from SofaScore to provide a deeper analysis.
-Performance Metrics: Various performance metrics are analyzed to offer insights into each team's capabilities and potential in the league.
+- Data Collection: Additional team data is gathered from SofaScore to provide a deeper analysis.
+- Performance Metrics: Various performance metrics are analyzed to offer insights into each team's capabilities and potential in the league.
 
 ## Conclusion
 This project provides a comprehensive simulation of a European Super League, supported by historical data and robust analysis. By leveraging ELO ratings and in-depth team analysis, it offers valuable insights into the dynamics of a highly competitive football league.
