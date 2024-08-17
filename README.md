@@ -26,5 +26,9 @@ Conducts an in-depth analysis of each team in the simulated league using data so
 - Data Collection: Additional team data is gathered from SofaScore to provide a deeper analysis.
 - Performance Metrics: Various performance metrics are analyzed to offer insights into each team's capabilities and potential in the league.
 
-## Conclusion
-This project provides a comprehensive simulation of a European Super League, supported by historical data and robust analysis. By leveraging ELO ratings and in-depth team analysis, it offers valuable insights into the dynamics of a highly competitive football league.
+## Contact Information
+For further information or questions regarding this project, please contact:
+
+- Name: Pablo Corral Robles
+- Email: pablocorralrobles@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pablo-corral-robles-2764b01b3/
